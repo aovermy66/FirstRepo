@@ -5,3 +5,4 @@ yet more things
 Commit #1
 Commit #2 during squash
 Commit #3 during squash
+Commit #4 during squash
